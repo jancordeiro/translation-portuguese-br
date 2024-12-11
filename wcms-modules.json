@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "plugins": {
+        "translation-portuguese-br": {
+            "name": "Translation Brazil's Portuguese",
+            "repo": "https://github.com/jancordeiro/translation-portuguese-br/tree/main",
+            "zip": "https://github.com/jancordeiro/translation-portuguese-br/archive/refs/heads/main.zip",
+            "summary": "Brazil's Portuguese translation for WonderCMS settings.",
+            "version": "1.0.0",
+            "image": "https://raw.githubusercontent.com/jancordeiro/translation-portuguese-br/refs/heads/main/preview.jpg"
+        }
+    }
+}
